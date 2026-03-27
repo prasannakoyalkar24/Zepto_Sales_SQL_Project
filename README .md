@@ -5,9 +5,9 @@
 ## Project Title: Zepto Sales
 ## Database: Zepto_sales
 
-**Tools Used
-SQL (POSTGRESQL)
-GitHub**
+** Tools Used
+- SQL (POSTGRESQL)
+- GitHub**
 
 ## PROJECT OBJECTIVES
 
