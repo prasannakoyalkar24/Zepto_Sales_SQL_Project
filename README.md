@@ -1,1 +1,0 @@
-# Zepto_Sales_SQL_Project
