@@ -19,6 +19,18 @@
 
 - Write **business-driven SQL queries** to derive insights around **pricing, inventory, stock availability, revenue** and more
 
+## PROJECT STRUCTURE
+
+Zepto-SQL-Data-Analysis
+│
+├── dataset
+│   └── zepto_data.csv
+│
+├── business_problems
+│   └── zepto_business_problems.sql
+│
+├── README.md
+
 **ABOUT THE SCHEMA**
 🧾 Columns:
 - **sku_id:** Unique identifier for each product entry (PRIMARY KEY)
